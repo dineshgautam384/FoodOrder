@@ -1,0 +1,22 @@
+Crate new Workplace:(without tests)
+>ng new frontend --skip-tests
+
+Dell@DESKTOP-VH83SFR MINGW64 /e/MEAN/E-Commerce_Project/Project-2
+$ ng new frontend --skip-tests
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? CSS
+
+Go to folder:
+>cd frontend
+Start Project:
+>ng serve
+open your browser on http://localhost:4200
+
+*Optional Part:
+Installation Git:
+
+now we want to track whole project so we will remove git from frontend folder 
+so open new bash:
+cd frontend
+To remove git Folder 
+>rm -rf .git
